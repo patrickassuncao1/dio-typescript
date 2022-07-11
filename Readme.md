@@ -1,4 +1,4 @@
-<h1 align="center">Desafio Typescript da Dio</h1>
+<h1 align="center">Desafio Typescript da Dio (Introdução ao Typescript)</h1>
 
 ## Descrição
 
