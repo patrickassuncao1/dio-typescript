@@ -1,0 +1,15 @@
+{
+  "name": "dio-typescript",
+  "version": "1.0.0",
+  "description": "Desafio da Dio Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
