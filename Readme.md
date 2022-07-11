@@ -4,7 +4,7 @@
 
 <p >🚀 Desafio de Projeto da dio 🚀, onde o desafio era altera os arquivos em javascript para typescript. </p>
 
-<p >O repositório dos arquivos em javacript é <a href="https://github.com/lira1705/mentoria-typescript" target="_blank">Clique aqui</a></p>
+<p >O repositório dos arquivos em javascript é <a href="https://github.com/lira1705/mentoria-typescript" target="_blank">Clique aqui</a></p>
 
 ## Sobre o Desafio: 
 
